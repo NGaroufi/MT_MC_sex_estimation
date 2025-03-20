@@ -20,4 +20,4 @@ The two inputs the `MT_MC_sex_estimation` requires are:
    
 This will open a window of the working directory, where the user can choose the CSV file containing the measurements. The function will then display a message reporting the number of samples from the data file, as well as the model being used. The results of the analysis are saved in .csv files. In case of validation results, they are saved in the corresponding .csv file and printed in the console in more detail.
 
-A testing dataset for each long bone is provided as a use case.
+A testing dataset is provided as a use case.
